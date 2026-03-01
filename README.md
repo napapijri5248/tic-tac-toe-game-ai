@@ -5,7 +5,6 @@ A responsive Tic-Tac-Toe web application built using React and Vite.
 ## Features
 - Play with AI (Minimax Algorithm)
 - Play with Friend (Local Multiplayer)
-- Modern UI with animations
 - Winning line highlight
 - Responsive design
 
